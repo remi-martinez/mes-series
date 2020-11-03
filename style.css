@@ -1,0 +1,14 @@
+body
+{
+	background-color: rgb(60,61,55);
+}
+
+.navbar
+{
+	border-bottom: solid 1px black;
+}
+
+.stateicon
+{
+	cursor: help;
+}
